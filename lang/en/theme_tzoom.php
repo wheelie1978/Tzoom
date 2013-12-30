@@ -240,9 +240,9 @@ $string['customcssdesc'] = 'Whatever CSS rules you add to this area will be refl
 
 
 
-$string['credit'] = 'Based on an original theme created by Shaun Daubney';
+$string['credit'] = 'Created by Colin Wheelhouse based on an original theme created by Richard Oelmann';
 
-$string['configtitle'] = 'buckle';
+$string['configtitle'] = 'Tzoom';
 
 
 
@@ -276,87 +276,25 @@ $string['region-side-pre'] = 'Left';
 
 $string['choosereadme'] = '
 
-<div class="clearfix"><div class="theme_screenshot"><h2>Theme buckle</h2>
+<div class="clearfix"><div class="theme_screenshot"><h2>Theme Tzoom</h2>
 
-<img class=img-polaroid src="bootstrap/pix/screenshot.jpg" />
-
+<img class=img-polaroid src="tzoom/pix/screenshot.jpg" />
+<div class="clearfix">
+<h2>tzoom</h2>
+</div>
+<div class="well">
+<h3>About</h3>
+<p>Tzoom is a modified Moodle bootstrap theme based on Buckle which inherits styles and renderers from its parent theme.</p>
+<h3>Parents</h3>
+<p>This theme is based upon the Bootstrap theme, which was created for Moodle 2.5, with the help of:<br>
+Stuart Lamour, Mark Aberdour, Paul Hibbitts, Mary Evans.</p>
+<p>It also builds on the work of the Clean theme by Mary Evans and uses the responsive pagelayout structure from Krystle - orginally used from Danny Wahls Zebra theme and based on the Matthew James Taylor Holy Grail layouts. This particular theme is based on Buckle by Richard Oelmann, it has taken elements such as the Profileblock, Alerts and Footer Icons from Aardvark by Sean Daubney and the use of Font-Awesome in Essential by Julian Ridden</p>
 <h3>Theme Credits</h3>
-
-<p>
-
-<h3>Moodle twitter Bootstrap theme</h3>
-
-<p>
-
-This theme is based on the Bootstrap CSS framework, version 2.3
-
-</p>
-
-<p>
-
-<a href="http://getbootstrap.com">http://getbootstrap.com</a>
-
-</p>
-
-<p>
-
-This is a GPL theme that is available on GitHub:
-
-</p>
-
-<p>
-
-<a href=https://github.com/bmbrands/theme_bootstrap">https://github.com/bmbrands/theme_bootstrap</a>
-
-</p>
-
-<p>
-
-Feel free to modify / improve / share
-
-</p>
-
-<p>
-
-This theme has been created with the help of:
-
-Stuart Lamour, Mark Aberdour, Paul Hibbitts, Mary Evans
-
-</p>
-
-<p>
-
-Authors: Bas Brands, David Scotson<br>
-
-Contact: bas@sonsbeekmedia.nl<br>
-
-Website: <a href="http://www.basbrands.nl">www.basbrands.nl</a><br>
-
-</p>
-
-
-
-<h3>Reporting bugs</h3>
-
-
-
-<p>You can report bugs on the <a href="https://github.com/bmbrands/theme_bootstrap/issues">github page</a> for this theme or
-
-on the Moodle tracker</p>
-
-
-
+<p>See above for credits for parent themes and work built on from other themes - All credit goes to those developers, while all errors in the theme I keep for myself! Big thanks to Richard Oelmann, Mary Evans and Gareth J Barnard for their patience and guidance in the Moodle forums</p>
+<p>Tzoom - Author: Colin Wheelhouse http://thinkzoom.co.uk</p>
+<h3>Report a bug:</h3>
+<p><a href="http://tracker.moodle.org">http://tracker.moodle.org</a></p>
 <h3>More information</h3>
-
-<ul>
-
-<li><a href="https://github.com/bmbrands/theme_bootstrap/wiki">Wiki page for this theme</a>
-
-<li><a href="http://docs.moodle.org/23/en/bootstrap-Theme">Bootstrap on Moodle docs</a></li>
-
-<li><a href="http://theming.sonsbeekmedia.nl/">Theme testing playground </a></li>
-
-</ul>';
-
+</div></div>';
 
 

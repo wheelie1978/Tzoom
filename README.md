@@ -1,9 +1,7 @@
-buckle
+Tzoom
 ==========
 
-A basic theme using the moodle_bootstrapbase as a parent. It is aimed as a starting point for those who would like to
-adopt bootstrap as a parent theme, but want to start from a look/layout which is more familiar as a design choice.
-It is not designed to be a finished theme for production use, but a theme to be a starting point for building on.
+A theme using the moodle_bootstrapbase derived Buckle as a parent. 
 
 This theme takes the master bootstrapbase theme from core as its parent and then replaces the layout with Danny Wahl's 
 Antioch layout (http://iyware.com/portfolio/antioch/) which uses Matthew James' Taylor's Holy Grail 3 column layout
@@ -14,11 +12,10 @@ It adjusts the default bootstrapbase layout to replace the traditional header ar
 the familiar branding rather than the small logo within the fixed custom menu. It also replaces the login info to
 the right of that header along with the language menu, removing these from the custommenu bar.
 
-In the main body of the page, the buckle theme replaces the default icons, many of which are hidden by the default
-bootstrapbase theme.
+In the main body of the page, the Tzoom theme replaces the default icons, many of which are hidden by the default
+bootstrapbase theme and adds Font-Awesome Icons to block headers.
 
-Additional settings are kept to a minimum in this theme (logo, customcss and footnote) although it is anticipated
-that themes built on this will utilise settings to a great effect in customising bootstrapbase in future
+Settings have been used from Sean Daubney's Aardvark themes and are comprehensive allowing for menu colour, bacground colour/image, alerts, social media icons etc to be added to the frontpage as required.
 
 The theme provides several css files
 * reset.css - which contains specific overrides for the parent css
@@ -26,9 +23,15 @@ The theme provides several css files
 * dock.css - the css required for the dock
 * core.css - the theme specific css
 * custom.css - the final css file which applies the settings from the customcss setting box
+* blockicons.css - the font-awesome icons associated with each block
+* profilebar.css - styling for the profileblock in the menu
 
 Credits:
 ========
+Moodle_tzoom
+* author Colin Wheelhouse http://thinkzoom.co.uk
+It is fully acknowledged that this theme would not be possible without the assistance of Richard Oelmann, Mary Evans, Gareth J Barnard, Sean Daubney, Julian Ridden and the below authors.
+
 Moodle_buckle
 * author Richard Oelmann http://editcons.net
 It is fully acknowledged that this theme would not be possible without the work done by others - see below
